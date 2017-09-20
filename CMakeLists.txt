@@ -1,5 +1,5 @@
 # Project settings and a hierechy setup
-cmake_minimum_required(VERSION 3.7)
+cmake_minimum_required(VERSION 3.4)
 
 project(DeqMath)
 set(CMAKE_BUILD_TYPE Release)
