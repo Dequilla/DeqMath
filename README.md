@@ -3,3 +3,7 @@ This is nothing revolutionary. I am just a puny "university" student implementin
 
 # TODO
 Static linking
+
+# Etc
+Currently I am using https://github.com/sercantutar/infint to represent huge integers.
+Other than that it is code written by myself.

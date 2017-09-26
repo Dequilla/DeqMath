@@ -4,8 +4,9 @@
 # Add all the source files
 set(DEQ_MATH_SOURCE_FILES 
 		../src/Combinatorics.cpp
-		../src/Utility.h
-		../src/DeqMath.h)
+		../src/Utility.cpp
+		../src/DeqMath.h
+		../src/InfInt.h)
 
 message(STATUS "DeqMath source files: " ${DEQ_MATH_SOURCE_FILES})
 

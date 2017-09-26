@@ -6,6 +6,5 @@
 * This project uses CMAKE for its build system and doxygen to generate documentation.
 */
 
-#include "Utility.h"
-
 #include "Combinatorics.h"
+#include "Utility.h"
