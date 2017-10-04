@@ -4,6 +4,7 @@
 # Add all the source files
 set(DEQ_MATH_SOURCE_FILES 
 		../src/Combinatorics.cpp
+		../src/Cryptography.cpp
 		../src/Utility.cpp
 		../src/DeqMath.h
 		../src/InfInt.h)

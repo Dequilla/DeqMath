@@ -7,4 +7,5 @@
 */
 
 #include "Combinatorics.h"
+#include "Cryptography.h"
 #include "Utility.h"
